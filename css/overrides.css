@@ -1,3 +1,6 @@
 pre {
   padding: 1em !important;
 }
+main {
+  max-width: 800px;
+}
