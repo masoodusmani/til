@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "TIL",
+  "url": "https://til.masoodusmani.com/",
+  "description": "Bite-sized learnings, aiding recall.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Bite-sized learnings, aiding recall.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://til.masoodusmani.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Masood Ahmed Usmani",
+    "email": "masood.usmani@gmail.com"
   }
 }
