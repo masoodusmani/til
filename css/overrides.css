@@ -6,8 +6,11 @@ pre {
 main {
   /* because p tags have 37.5 em max width */
   max-width: 42.5em;
+  margin: 0 auto;
 }
-
+img {
+  max-width: 100%;
+}
 .postlist-item {
   border: 1px solid;
   padding: 1em;
