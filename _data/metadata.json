@@ -1,9 +1,9 @@
 {
-  "title": "TIL",
+  "title": "TIL by Masood",
   "url": "https://til.masoodusmani.com/",
-  "description": "Bite-sized learnings, aiding recall.",
+  "description": "Bite-sized record of learning, to aid recall.",
   "feed": {
-    "subtitle": "Bite-sized learnings, aiding recall.",
+    "subtitle": "Bite-sized record of learning, to aid recall.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://til.masoodusmani.com/"
